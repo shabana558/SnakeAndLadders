@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SnakeAndLadders
 {
-    internal class Program
+    internal class Nooftimes
     {
-        static void Main(string[] args)
+        public static void nooftimes()
         {
             //local variable
             int rollDice, playerPos = 0;
@@ -56,7 +56,6 @@ namespace SnakeAndLadders
             count++;
             Console.WriteLine("Final position is :" + playerPos);
             Console.WriteLine("number of times:" + count);
-
         }
     }
 }
