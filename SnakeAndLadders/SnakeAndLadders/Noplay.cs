@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SnakeAndLadders
 {
-    internal class DiceRolled
+    internal class Noplay
     {
-        public static void dicerolled()
+        public static void noplay()
         {
             //local variable
             int rollDice, playerPos = 0;
@@ -42,7 +42,6 @@ namespace SnakeAndLadders
             Console.WriteLine("\n");
             Console.WriteLine("Player current position : " + playerPos);
             Console.WriteLine("Final position is :" + playerPos);
-
         }
     }
 }
