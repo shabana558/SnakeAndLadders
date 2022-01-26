@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SnakeAndLadders
 {
-    internal class Program
+    internal class Exact100position
     {
-        static void Main(string[] args)
+        public static void exact100position()
         {
 
             //local variable

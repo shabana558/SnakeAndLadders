@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DiceRolled.cs" />
+    <Compile Include="Exact100position.cs" />
     <Compile Include="Nooftimes.cs" />
     <Compile Include="Noplay.cs" />
     <Compile Include="Program.cs" />
