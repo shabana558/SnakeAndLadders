@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Checkingplayerposition.cs" />
     <Compile Include="DiceRolled.cs" />
     <Compile Include="Exact100position.cs" />
     <Compile Include="Nooftimes.cs" />

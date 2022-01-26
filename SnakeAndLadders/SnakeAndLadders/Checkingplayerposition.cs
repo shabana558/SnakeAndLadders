@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace SnakeAndLadders
 {
-    internal class Program
+    internal class Checkingplayerposition
     {
-        static void Main(string[] args)
+        public static void checkingplayerposition()
         {
-
 
             int playerPos = 0, rollDice;
             //creates random number for rolling dice
