@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SnakeAndLadders
 {
-    internal class Program
+    internal class Twoplayergame
     {
-        static void Main(string[] args)
+        public static void twoplayergame()
         {
             // local variable
             int rollDice, playerPos1 = 0, playerPos2 = 0;
@@ -136,8 +136,6 @@ namespace SnakeAndLadders
             }
             //Total Number of game played
             Console.WriteLine("Number of times game played :" + count);
-
-
         }
     }
 }
